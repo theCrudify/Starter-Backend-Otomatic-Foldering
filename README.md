@@ -76,7 +76,6 @@ This script automatically generates a structured folder and file hierarchy for a
 - Modify the generated files as needed to fit your project requirements.
 - Ensure `.env` is properly configured before running the backend services.
 
-## License
-This project is licensed under the MIT License.
+
 
 
